@@ -17,7 +17,7 @@
 |--------|-------------|
 | **Frontend** | React 19, TypeScript, Vite, Tailwind CSS v4, shadcn/ui, Framer Motion |
 | **Backend** | Node.js, Express, tRPC, TypeScript |
-| **Banco de Dados** | Supabase (MySQL via Drizzle ORM) |
+| **Banco de Dados** | MySQL via Drizzle ORM |
 | **IA / LLM** | Integração com LLMs via `server/_core/llm.ts` |
 | **Autenticação** | OAuth, cookies seguros (`server/_core/oauth.ts`) |
 | **Armazenamento** | AWS S3 (`@aws-sdk/client-s3`) |
